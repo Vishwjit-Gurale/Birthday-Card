@@ -1,0 +1,41 @@
+.main-div {
+  height: auto;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 19px;
+  gap: 8px;
+  background-color: whitesmoke;
+  padding: 5px 15px;
+  flex-direction: column;
+  box-shadow: 0 0 20px #000;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}
+
+span {
+  color: gray;
+}
+button {
+  height: 33px;
+  width: 100px;
+  background-color: gray;
+  font-size: 20px;
+  border: none;
+  border-radius: 15px;
+}
+
+button:hover {
+  border: 2px solid red;
+  cursor: pointer;
+}
+
+.date {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
