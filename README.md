@@ -9,9 +9,6 @@
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
 - React JS
 
 ## Setup
